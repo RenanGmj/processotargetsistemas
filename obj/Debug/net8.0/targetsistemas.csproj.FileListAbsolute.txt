@@ -1,0 +1,14 @@
+C:\Users\4Gamers\Desktop\targetsistemas\bin\Debug\net8.0\targetsistemas.exe
+C:\Users\4Gamers\Desktop\targetsistemas\bin\Debug\net8.0\targetsistemas.deps.json
+C:\Users\4Gamers\Desktop\targetsistemas\bin\Debug\net8.0\targetsistemas.runtimeconfig.json
+C:\Users\4Gamers\Desktop\targetsistemas\bin\Debug\net8.0\targetsistemas.dll
+C:\Users\4Gamers\Desktop\targetsistemas\bin\Debug\net8.0\targetsistemas.pdb
+C:\Users\4Gamers\Desktop\targetsistemas\obj\Debug\net8.0\targetsistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4Gamers\Desktop\targetsistemas\obj\Debug\net8.0\targetsistemas.AssemblyInfoInputs.cache
+C:\Users\4Gamers\Desktop\targetsistemas\obj\Debug\net8.0\targetsistemas.AssemblyInfo.cs
+C:\Users\4Gamers\Desktop\targetsistemas\obj\Debug\net8.0\targetsistemas.csproj.CoreCompileInputs.cache
+C:\Users\4Gamers\Desktop\targetsistemas\obj\Debug\net8.0\targetsistemas.dll
+C:\Users\4Gamers\Desktop\targetsistemas\obj\Debug\net8.0\refint\targetsistemas.dll
+C:\Users\4Gamers\Desktop\targetsistemas\obj\Debug\net8.0\targetsistemas.pdb
+C:\Users\4Gamers\Desktop\targetsistemas\obj\Debug\net8.0\targetsistemas.genruntimeconfig.cache
+C:\Users\4Gamers\Desktop\targetsistemas\obj\Debug\net8.0\ref\targetsistemas.dll
